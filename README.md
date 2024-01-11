@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="dev" src="[https://gpvc.arturio.dev/Sumanth-Talluri](https://i.imgur.com/AHB55u5.png)](https://i.imgur.com/AHB55u5.png)" />
+    <img align="center" alt="dev" src="https://i.imgur.com/AHB55u5.png" />
 </p>
 
 <p align="center">
