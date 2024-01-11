@@ -1,14 +1,14 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello there, I'm Sumanth 👋</b></h1>
+  <h1 align="center"><b>Hello there, Ngô Gia Nhất Sơn👋</b></h1>
 </p>
 
 <p>
-  <h4 align="center"><b>"Talk is cheap. Show me the code"</b></h4>
+  <h4 align="center"><b>"No Pain, No Gain"</b></h4>
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+    <img align="center" alt="dev" src="[https://gpvc.arturio.dev/Sumanth-Talluri](https://i.imgur.com/AHB55u5.png)" />
 </p>
 
 <p align="center">
